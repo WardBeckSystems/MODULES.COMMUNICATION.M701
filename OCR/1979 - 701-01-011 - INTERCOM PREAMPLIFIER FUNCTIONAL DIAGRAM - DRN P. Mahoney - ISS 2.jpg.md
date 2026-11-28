@@ -1,5 +1,5 @@
 # 1979 - 701-01-011 - INTERCOM PREAMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2.jpg
-Wiki page: [M701](../../../../PAGES/M701.md)
+Wiki page: [M701](../)
 
 
 - **Year:** 1979 (title block date)

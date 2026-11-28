@@ -1,5 +1,5 @@
 # 1978 - 701-02-101 - M701B INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 2.png
-Wiki page: [M701](../../../../PAGES/M701.md)
+Wiki page: [M701](../)
 
 
 - **Year:** 1978 (title block date)
